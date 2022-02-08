@@ -1,6 +1,5 @@
 # instagram
-/Users/mrezahakimyar/Desktop/GitHub/instagram/Screen Shot 2022-02-08 at 2.53.53 PM.png
-A new Flutter project.
+# Before get reading this info please find the attached video and screenshot of the project. Might be interesting.
 
 ## Getting Started
 
