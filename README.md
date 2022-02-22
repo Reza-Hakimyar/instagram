@@ -1,5 +1,6 @@
 # instagram
 # Before get reading this info please find the attached video and screenshot of the project. Might be interesting.
+<img width="343" alt="Screen Shot 2022-02-08 at 2 53 53 PM" src="https://user-images.githubusercontent.com/97143754/155194568-33a6ef44-f398-446a-bbbc-41bfd30d7feb.png">
 
 ## Getting Started
 
